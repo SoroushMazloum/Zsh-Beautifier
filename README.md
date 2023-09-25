@@ -1,0 +1,3 @@
+# Zsh-Beautifier
+
+./run.sh
